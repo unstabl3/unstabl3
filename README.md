@@ -1,7 +1,7 @@
-### Hey,Shubham here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+#### Hey,Shubham here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-#### 🤵 Whoami  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+### 🤵 Whoami  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
 
 I am Shubham Chaskar, currently working as an Application Security Engineer at [ArisGlobal](https://www.arisglobal.com). I love to make awesome things for awesome peoples. I am always open to collaborating on security projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -16,16 +16,18 @@ And Also I Hack! :)    <img src="https://cultofthepartyparrot.com/parrots/hd/evi
 
 ![hacking](https://raw.githubusercontent.com/unstabl3/unstabl3/main/pzw4C8l.gif)
 
-### :octocat: Cat more info:  <img src="https://cultofthepartyparrot.com/parrots/hd/vikingparrot.gif" width="30" height="30"/>
+### :octocat: Cat more info  <img src="https://cultofthepartyparrot.com/parrots/hd/vikingparrot.gif" width="30" height="30"/>
 
 - 🔭 I’m currently working on recon project.
 - 🌱 I’m currently learning Go, javascript.
 - 👯 I’m looking to collaborate on security projects that breaks the stuff.
 - 💬 Talk to me about cricket, python, go.
 - 😄 I write articles on shubhamchaskar.com
-- ⚡ Fun fact: I don't use VI. <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
+- ⚡ Fun fact: I don't use VIM. <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
 - 📝 [Resume](https://shubhamchaskar.com/resume/shubhamchaskar.pdf)
 - 📫 How to reach me: info@shubhamchaskar.com
+
+### :octocat: GitHub Stats <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=unstabl3&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
