@@ -6,7 +6,7 @@
 I am Shubham Chaskar, currently working as an Application Security Engineer at [ArisGlobal](https://www.arisglobal.com). I love to make awesome things for awesome peoples. I am always open to collaborating on security projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/shubhamchaskar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-chaskar)](https://www.linkedin.com/in/shubham-chaskar)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shubhamchaskar.com/)](https://shubhamchaskar.com/)
+[![website](https://img.shields.io/badge/shubhamchaskar.com-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shubhamchaskar.com)](https://shubhamchaskar.com/)
 [![Twitter Badge](https://img.shields.io/badge/shubhamchaskar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/chaskar_shubham)](https://twitter.com/chaskar_shubham)
 [![Gmail Badge](https://img.shields.io/badge/info@shubhamchaskar.com-c14437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@shubhamchaskar.com)](mailto:info@shubhamchaskar.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=unstabl3.unstabl3)
