@@ -37,7 +37,7 @@ jobs:
       run: pip install tweepy
     
     - name: add-latest-follower
-      run: python shubham/scripts/add_latest_follower.py
+      run: python scripts/add_latest_follower.py
       env:
         CONSUMER_KEY: ${{ secrets.TWITTER_API_KEY }}
         CONSUMER_SECRET: ${{ secrets.TWITTER_API_SECRET_KEY }}
