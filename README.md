@@ -24,7 +24,7 @@ And Also I Hack! :)    <img src="https://cultofthepartyparrot.com/parrots/hd/evi
 - 💬 Talk to me about cricket, python, go.
 - 😄 I write articles on shubhamchaskar.com
 - ⚡ Fun fact: I don't use VIM. <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
-- 📝 [Resume](https://shubhamchaskar.com/resume/shubhamchaskar.pdf)
+- 📝 [Resume](https://shubhamchaskar.com/resume/)
 - 📫 How to reach me: info@shubhamchaskar.com
 
 ### :octocat: GitHub Stats <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
