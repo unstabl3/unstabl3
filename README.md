@@ -22,7 +22,7 @@ And Also I Hack! :)    <img src="https://cultofthepartyparrot.com/parrots/hd/evi
 - 🌱 I’m currently learning Go, javascript.
 - 👯 I’m looking to collaborate on security projects that breaks the stuff.
 - 💬 Talk to me about cricket, python, go.
-- 😄 I write articles on shubhamchaskar.com
+- 😄 I write articles on <a href="https://shubhamchaskar.com">shubhamchaskar.com</a>
 - ⚡ Fun fact: I don't use VIM. <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
 - 📝 [Resume](https://shubhamchaskar.com/resume/)
 - 📫 How to reach me: info@shubhamchaskar.com
