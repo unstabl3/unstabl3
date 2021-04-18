@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/syncinggreen'>
+            <span class='name'>Santosh Shah</span><span class='screen-name'>@syncinggreen</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/kyasaryildirim'>
             <span class='name'>Kürşad Yaşar Yıldırım</span><span class='screen-name'>@kyasaryildirim</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         I am tech and films enthusiast.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/0p71mu5'>
-            <span class='name'>Optimus</span><span class='screen-name'>@0p71mu5</span>
-        </a>
-    </h2>
-
-    <p>
-        Hacker's Den
     </p>
 </li>
 
