@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Ajay80123908'>
+            <span class='name'>Ajay</span><span class='screen-name'>@Ajay80123908</span>
+        </a>
+    </h2>
+
+    <p>
+        Security researcher
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/chaitanyasonku3'>
             <span class='name'>chaitanya sonkusare</span><span class='screen-name'>@chaitanyasonku3</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Work Hard 🔥
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/LilanjanB'>
-            <span class='name'>Lilanjan Barman</span><span class='screen-name'>@LilanjanB</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
