@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/dalve_dinesh'>
+            <span class='name'>Dinesh Dalve</span><span class='screen-name'>@dalve_dinesh</span>
+        </a>
+    </h2>
+
+    <p>
+        Security Analyst | CEH v10
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Rakshit60028606'>
             <span class='name'>Rakshit</span><span class='screen-name'>@Rakshit60028606</span>
         </a>
@@ -176,17 +187,6 @@
     <h2>
         <a href='https://twitter.com/RohanOttari'>
             <span class='name'>Rohan</span><span class='screen-name'>@RohanOttari</span>
-        </a>
-    </h2>
-
-    <p>
-        
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Eduardo84537618'>
-            <span class='name'>Eduardo Cunha</span><span class='screen-name'>@Eduardo84537618</span>
         </a>
     </h2>
 
