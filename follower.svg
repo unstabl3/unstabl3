@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/beginnbounty'>
+            <span class='name'>Begin n Bounty</span><span class='screen-name'>@beginnbounty</span>
+        </a>
+    </h2>
+
+    <p>
+        whoAmI || A security Researcher || Bug Bounty Hunter || An Ethical Hacker || Offsec lover.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/unchalli'>
             <span class='name'>naveen bhat</span><span class='screen-name'>@unchalli</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         interested in cyber security field
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/OmRenukar'>
-            <span class='name'>Om Renukar</span><span class='screen-name'>@OmRenukar</span>
-        </a>
-    </h2>
-
-    <p>
-        OM RENUKAR
-RASHIN
-414403
     </p>
 </li>
 
