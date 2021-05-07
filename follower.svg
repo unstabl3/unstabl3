@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/A_s41nT'>
+            <span class='name'>Ayush Rawat</span><span class='screen-name'>@A_s41nT</span>
+        </a>
+    </h2>
+
+    <p>
+        Student of NLIU'21 | Marathon Runner | fitness Enthusiast | Share smile | Views are my own
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/beginnbounty'>
             <span class='name'>Begin n Bounty</span><span class='screen-name'>@beginnbounty</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         human being
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/SauravShaitan'>
-            <span class='name'>Gaurav khaitan</span><span class='screen-name'>@SauravShaitan</span>
-        </a>
-    </h2>
-
-    <p>
-        interested in cyber security field
     </p>
 </li>
 
