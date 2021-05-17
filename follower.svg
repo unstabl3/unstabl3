@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/_HappyHacker_'>
+            <span class='name'>Happy</span><span class='screen-name'>@_HappyHacker_</span>
+        </a>
+    </h2>
+
+    <p>
+        Just bughunting
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/kumaran923'>
             <span class='name'>kumaran88</span><span class='screen-name'>@kumaran923</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/eastier'>
-            <span class='name'>Emilio Astier</span><span class='screen-name'>@eastier</span>
-        </a>
-    </h2>
-
-    <p>
-        Industrial Cybersecurity Specialist SCADA/ICS #Seguridad_de_Sistemas_Informáticos #CEH #CHFI #CCNA #DPO
     </p>
 </li>
 
