@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/GauravAhire12'>
+            <span class='name'>Gaurav Ahire</span><span class='screen-name'>@GauravAhire12</span>
+        </a>
+    </h2>
+
+    <p>
+        Engineer | Security Researcher
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/_HappyHacker_'>
             <span class='name'>Happy</span><span class='screen-name'>@_HappyHacker_</span>
         </a>
@@ -176,17 +187,6 @@
     <h2>
         <a href='https://twitter.com/kumaran923'>
             <span class='name'>kumaran88</span><span class='screen-name'>@kumaran923</span>
-        </a>
-    </h2>
-
-    <p>
-        
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/TurgutA34204599'>
-            <span class='name'>Turgut Alp</span><span class='screen-name'>@TurgutA34204599</span>
         </a>
     </h2>
 
