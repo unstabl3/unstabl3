@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/rizory2'>
+            <span class='name'>rizory</span><span class='screen-name'>@rizory2</span>
+        </a>
+    </h2>
+
+    <p>
+        CTF player (RE/Web). Cyber Security Intern @TrendMicro.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/vaibhavbans'>
             <span class='name'>Vaibhav Bansal</span><span class='screen-name'>@vaibhavbans</span>
         </a>
@@ -182,17 +193,6 @@
     <p>
         💻Cyber Security Enthusiast
 🏅CDAC ACTS Pune Alumni
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/GauravAhire12'>
-            <span class='name'>Gaurav Ahire</span><span class='screen-name'>@GauravAhire12</span>
-        </a>
-    </h2>
-
-    <p>
-        Engineer | Security Researcher
     </p>
 </li>
 
