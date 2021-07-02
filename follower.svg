@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/austin_indian'>
+            <span class='name'>Indian Austin</span><span class='screen-name'>@austin_indian</span>
+        </a>
+    </h2>
+
+    <p>
+        SI
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Securityb0at'>
             <span class='name'>Securityboat</span><span class='screen-name'>@Securityb0at</span>
         </a>
@@ -182,17 +193,6 @@
     <p>
         WhoamI
 | A Security Researcher |  Bug Bounty Hunter on @bugcrowd | An Ethical Hacker | Offsec | Tech Lover.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/BaroliyaDarshan'>
-            <span class='name'>darshan baroliya</span><span class='screen-name'>@BaroliyaDarshan</span>
-        </a>
-    </h2>
-
-    <p>
-        Noob hacker
     </p>
 </li>
 
