@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/John96302878'>
+            <span class='name'>John</span><span class='screen-name'>@John96302878</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/austin_indian'>
             <span class='name'>Indian Austin</span><span class='screen-name'>@austin_indian</span>
         </a>
@@ -181,18 +192,6 @@
 
     <p>
         Cyber Security Solutions Built On Customer Trust
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/DanishB23511699'>
-            <span class='name'>Danish Bhat</span><span class='screen-name'>@DanishB23511699</span>
-        </a>
-    </h2>
-
-    <p>
-        WhoamI
-| A Security Researcher |  Bug Bounty Hunter on @bugcrowd | An Ethical Hacker | Offsec | Tech Lover.
     </p>
 </li>
 
