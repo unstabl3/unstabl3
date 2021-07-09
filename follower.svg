@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Durgesh986'>
+            <span class='name'>Durgesh</span><span class='screen-name'>@Durgesh986</span>
+        </a>
+    </h2>
+
+    <p>
+        Want to be Ethical hacker
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/John96302878'>
             <span class='name'>John</span><span class='screen-name'>@John96302878</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         SI
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Securityb0at'>
-            <span class='name'>Securityboat</span><span class='screen-name'>@Securityb0at</span>
-        </a>
-    </h2>
-
-    <p>
-        Cyber Security Solutions Built On Customer Trust
     </p>
 </li>
 
