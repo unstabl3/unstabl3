@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/veerae93'>
+            <span class='name'>Veerae</span><span class='screen-name'>@veerae93</span>
+        </a>
+    </h2>
+
+    <p>
+        Live and let live
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/aryan_2306'>
             <span class='name'>Aryan Sharma</span><span class='screen-name'>@aryan_2306</span>
         </a>
@@ -183,17 +194,6 @@ Seize the bug 🐞
 
     <p>
         An aspiring Ethical Hacker , Linux Enthusiast , Bug Hunter
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/ritesh0x1'>
-            <span class='name'>Ritesh</span><span class='screen-name'>@ritesh0x1</span>
-        </a>
-    </h2>
-
-    <p>
-        Curious, #Believe
     </p>
 </li>
 
