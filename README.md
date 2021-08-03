@@ -37,7 +37,7 @@ And Also I Hack! :)    <img src="https://cultofthepartyparrot.com/parrots/hd/evi
 
 <div align="center">
 	<br>
-	<a href="https://github.com/unstabl3/unstabl3/blob/main/follower.svg">
+	<a href="https://raw.githubusercontent.com/unstabl3/unstabl3/main/follower.svg">
 		<img src="follower.svg" width="854" height="140">
 	</a>
 </div>
