@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/offensivedev'>
+            <span class='name'>Amit K 🌐</span><span class='screen-name'>@offensivedev</span>
+        </a>
+    </h2>
+
+    <p>
+        Security Engineer | Synack Red Team member | AppSec | Bug Bounty Hunter | OSCP
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Muhammadyqb'>
             <span class='name'>Muhammad Yaqoob</span><span class='screen-name'>@Muhammadyqb</span>
         </a>
@@ -181,18 +192,6 @@
 
     <p>
         🇮🇳INDIAN
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/DevFardeen52'>
-            <span class='name'>Fardeen Khan</span><span class='screen-name'>@DevFardeen52</span>
-        </a>
-    </h2>
-
-    <p>
-        ~Cyber enthusiast
-~Newbie
     </p>
 </li>
 
