@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/chmiels'>
+            <span class='name'>OpcodeNop (0x90 / $EA )</span><span class='screen-name'>@chmiels</span>
+        </a>
+    </h2>
+
+    <p>
+        I'm not breaking things, they are already broken.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/offensivedev'>
             <span class='name'>Amit K 🌐</span><span class='screen-name'>@offensivedev</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Cyber Security learner!
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/R007_BR34K3R'>
-            <span class='name'>Vinay Kumar 🇮🇳</span><span class='screen-name'>@R007_BR34K3R</span>
-        </a>
-    </h2>
-
-    <p>
-        🇮🇳INDIAN
     </p>
 </li>
 
