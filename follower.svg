@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/pritesec'>
+            <span class='name'>Pritesh Mistry</span><span class='screen-name'>@pritesec</span>
+        </a>
+    </h2>
+
+    <p>
+        Security Analyst
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/VishalR76453247'>
             <span class='name'>Vishal Rokade</span><span class='screen-name'>@VishalR76453247</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Just a cyber security guy.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/LearnerSecurity'>
-            <span class='name'>security_learner</span><span class='screen-name'>@LearnerSecurity</span>
-        </a>
-    </h2>
-
-    <p>
-        Security learner and maybe want to be a IT security researcher in the future.
     </p>
 </li>
 
