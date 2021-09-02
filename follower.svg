@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/zeeshan1338'>
+            <span class='name'>Zeeshan</span><span class='screen-name'>@zeeshan1338</span>
+        </a>
+    </h2>
+
+    <p>
+        Ethical Hacker ! Security Researcher And Software Engineer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/pritesec'>
             <span class='name'>Pritesh Mistry</span><span class='screen-name'>@pritesec</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/0xmkr24'>
-            <span class='name'>ₐdₕₐₘ</span><span class='screen-name'>@0xmkr24</span>
-        </a>
-    </h2>
-
-    <p>
-        Just a cyber security guy.
     </p>
 </li>
 
