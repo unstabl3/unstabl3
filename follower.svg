@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/an1msh'>
+            <span class='name'>Animesh Acharya</span><span class='screen-name'>@an1msh</span>
+        </a>
+    </h2>
+
+    <p>
+        Trying Hard to Pentest.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/cyber01_'>
             <span class='name'>Preetham Bomma</span><span class='screen-name'>@cyber01_</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Ethical Hacker ! Security Researcher And Software Engineer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/pritesec'>
-            <span class='name'>Pritesh Mistry</span><span class='screen-name'>@pritesec</span>
-        </a>
-    </h2>
-
-    <p>
-        Security Analyst
     </p>
 </li>
 
