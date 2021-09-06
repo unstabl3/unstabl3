@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/indevi0us'>
+            <span class='name'>Samuele Gugliotta</span><span class='screen-name'>@indevi0us</span>
+        </a>
+    </h2>
+
+    <p>
+        Offensive Security Researcher, Hacker, Bug Bounty Hunter, Speaker, Hackfluencer and other words that end with -er. 𝚂𝚑𝟹𝚕𝚕𝙲𝚘𝚍𝟹 and 𝙾𝚆𝙰𝚂𝙿 member.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/minttreesec'>
             <span class='name'>minttreesec</span><span class='screen-name'>@minttreesec</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/HeBo117'>
-            <span class='name'>Ahmed Ehab</span><span class='screen-name'>@HeBo117</span>
-        </a>
-    </h2>
-
-    <p>
-        The hardest worker in the room |
-https://t.co/YRFnZW2BOW
-|eWAPT| Trying to be a Red Teamer
     </p>
 </li>
 
